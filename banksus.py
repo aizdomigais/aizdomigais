@@ -1,6 +1,4 @@
-#Client class
-#name
-#timestamp (optional)
+
 
 import datetime
 
